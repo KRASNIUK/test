@@ -14,9 +14,7 @@ DESCRIPTION
        pattern.   Typically PATTERNS should be quoted when grep is used in a shell
        command.
 
-       A FILE of “-” stands for standard input.  If no FILE  is  given,  recursive
-       searches  examine  the  working  directory,  and nonrecursive searches read
-       standard input.
+      
 
        In addition, the variant programs egrep, fgrep and rgrep are  the  same  as
        grep -E,   grep -F,   and   grep -r,   respectively.   These  variants  are
